@@ -1,6 +1,12 @@
+using DCEBusinessLogic;
+using DCEBusinessLogic.Interfaces;
+using DCEDataAccess;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddScoped<ICustomerBusinessLogic, CustomerBusinessLogic>();
+builder.Services.AddScoped<IOrderBusinessLogic, OrderBusinessLogic>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\DCEInterviewTest\\DCESystem\\DCESystem\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B8F7CF-5502-4A6E-BDFA-CE5157E6CA8C}|DCEWebApi\\DCEWebApi.csproj|e:\\dceinterviewtest\\dcesystem\\dcesystem\\dcewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B8F7CF-5502-4A6E-BDFA-CE5157E6CA8C}|DCEWebApi\\DCEWebApi.csproj|solutionrelative:dcewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D1316C-1F6F-4685-8743-8FF10FF13F8C}|DCEDataAccess\\DCEDataAccess.csproj|e:\\dceinterviewtest\\dcesystem\\dcesystem\\dcedataaccess\\orderdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D1316C-1F6F-4685-8743-8FF10FF13F8C}|DCEDataAccess\\DCEDataAccess.csproj|solutionrelative:dcedataaccess\\orderdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B8F7CF-5502-4A6E-BDFA-CE5157E6CA8C}|DCEWebApi\\DCEWebApi.csproj|e:\\dceinterviewtest\\dcesystem\\dcesystem\\dcewebapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B8F7CF-5502-4A6E-BDFA-CE5157E6CA8C}|DCEWebApi\\DCEWebApi.csproj|solutionrelative:dcewebapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B8F7CF-5502-4A6E-BDFA-CE5157E6CA8C}|DCEWebApi\\DCEWebApi.csproj|e:\\dceinterviewtest\\dcesystem\\dcesystem\\dcewebapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B8F7CF-5502-4A6E-BDFA-CE5157E6CA8C}|DCEWebApi\\DCEWebApi.csproj|solutionrelative:dcewebapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F65C4C5-6AB1-40C4-999D-14B35F26E362}|DCEBusinessLogic\\DCEBusinessLogic.csproj|e:\\dceinterviewtest\\dcesystem\\dcesystem\\dcebusinesslogic\\customerbusinesslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F65C4C5-6AB1-40C4-999D-14B35F26E362}|DCEBusinessLogic\\DCEBusinessLogic.csproj|solutionrelative:dcebusinesslogic\\customerbusinesslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DCEInterviewTest\\DCESystem\\DCESystem\\DCEWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "DCEWebApi\\Program.cs",
+              "ToolTip": "E:\\DCEInterviewTest\\DCESystem\\DCESystem\\DCEWebApi\\Program.cs",
+              "RelativeToolTip": "DCEWebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:05:34.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerBusinessLogic.cs",
+              "DocumentMoniker": "E:\\DCEInterviewTest\\DCESystem\\DCESystem\\DCEBusinessLogic\\CustomerBusinessLogic.cs",
+              "RelativeDocumentMoniker": "DCEBusinessLogic\\CustomerBusinessLogic.cs",
+              "ToolTip": "E:\\DCEInterviewTest\\DCESystem\\DCESystem\\DCEBusinessLogic\\CustomerBusinessLogic.cs",
+              "RelativeToolTip": "DCEBusinessLogic\\CustomerBusinessLogic.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAewCkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:12:41.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "E:\\DCEInterviewTest\\DCESystem\\DCESystem\\DCEWebApi\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "DCEWebApi\\Controllers\\CustomerController.cs",
+              "ToolTip": "E:\\DCEInterviewTest\\DCESystem\\DCESystem\\DCEWebApi\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "DCEWebApi\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:50:30.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDataAccess.cs",
+              "DocumentMoniker": "E:\\DCEInterviewTest\\DCESystem\\DCESystem\\DCEDataAccess\\OrderDataAccess.cs",
+              "RelativeDocumentMoniker": "DCEDataAccess\\OrderDataAccess.cs",
+              "ToolTip": "E:\\DCEInterviewTest\\DCESystem\\DCESystem\\DCEDataAccess\\OrderDataAccess.cs",
+              "RelativeToolTip": "DCEDataAccess\\OrderDataAccess.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAMwCkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:50:30.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\DCEInterviewTest\\DCESystem\\DCESystem\\DCEWebApi\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "DCEWebApi\\Controllers\\OrderController.cs",
+              "ToolTip": "E:\\DCEInterviewTest\\DCESystem\\DCESystem\\DCEWebApi\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "DCEWebApi\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:50:30.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
